@@ -27,3 +27,4 @@ for i in population:
 # [População] Cria-se uma nova população pela repetição a seguir:
 new_population = random.sample(range(100), 100)
 
+
